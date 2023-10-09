@@ -29,7 +29,7 @@ A continuación se muestra un ejemplo de lista ordenada:
 
 ## Imágenes
 A continuación se muestra una imagen insertada. La imagen está disponible en la URL indicada en las claves de resolución del caso práctico.
-![Open source](https://es.m.wikipedia.org/wiki/Archivo:Open_Source_Initiative.svg)
+![Open Source](https://es.m.wikipedia.org/wiki/Archivo:Open_Source_Initiative.svg)
 
 ## Enlaces
 Esto es un [enlace a Google](https://www.google.es)
@@ -38,4 +38,5 @@ Esto es un [enlace a Google](https://www.google.es)
 
 > No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo.
 > -- Ley de Mosher de la Ingeniería del Software
+
 (Observa que debes poner dos guiones juntos para que se muestre un guión  no se muestre como elemento de lista).
