@@ -29,7 +29,7 @@ A continuación se muestra un ejemplo de lista ordenada:
 
 ## Imágenes
 A continuación se muestra una imagen insertada. La imagen está disponible en la URL indicada en las claves de resolución del caso práctico.
-![Screenshot](https://es.m.wikipedia.org/wiki/Archivo:Open_Source_Initiative.svg)
+/Open_Source_Initiative.svg.png
 
 ## Enlaces
 Esto es un [enlace a Google](https://www.google.es)
